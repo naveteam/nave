@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { ThemeProvider, Heading, Paragraph} from '@naveteam/ui-components'
+import { ThemeProvider, Heading, Paragraph} from '@naveteam/saturn'
 
 function App() {
   return (
